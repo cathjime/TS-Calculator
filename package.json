@@ -1,0 +1,24 @@
+{
+  "name": "ts-calculator",
+  "version": "1.0.0",
+  "description": "The goal of this exercise will be to create a calculator using Typescript. The program will be able to do addition, subtraction, multiplication and division on 2 numbers that will be passed as parameters to this program. The program will display the results for each operation. example:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cathjime/TS-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cathjime/TS-Calculator/issues"
+  },
+  "homepage": "https://github.com/cathjime/TS-Calculator#readme",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}
